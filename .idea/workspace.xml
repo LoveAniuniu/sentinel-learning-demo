@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b2226b5-20c1-4d76-86f9-99443687bb93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sentinel-demo/src/main/java/com/druid/learning/sentineldemo/SentinelGuavaDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581648865987</updated>
       <workItem from="1581648869333" duration="3192000" />
-      <workItem from="1581948479588" duration="576000" />
+      <workItem from="1581948479588" duration="1360000" />
     </task>
     <servers />
   </component>
